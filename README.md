@@ -80,7 +80,7 @@ machine-learning, supervised-learning, random-forest, svm, classification, pytho
 ## Author
 **Rahul Pagar**  
 MSc in Business Analytics — Dublin Business School  
-🔗 [LinkedIn](https://www.linkedin.com/in/rahulpagar)
+🔗 [LinkedIn](www.linkedin.com/in/rahul-pagar1993)
 
 ---
 
