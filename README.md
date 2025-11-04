@@ -15,6 +15,9 @@ It is based on the **UCI Bank Marketing Dataset** and explores data preprocessin
 - **Environment:** Google Colab / Jupyter Notebook
 
 ---
+---
+### 🏷️ Keywords
+machine-learning, supervised-learning, random-forest, svm, classification, python, scikit-learn, smote, data-science
 
 ## ⚙️ Steps and Methods
 
